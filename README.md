@@ -1,4 +1,4 @@
-# 🧠 Computer Programming 2
+# 🧠 Advanced Programming
 
 This repository contains coursework, home assignments and mock exams for the **Advanced Programming** class a.y. 2025/2026 held by **Prof. Marco Patrignani**  
 It includes various Rust projects, covering both basic and intermediate-advanced features of the language.
