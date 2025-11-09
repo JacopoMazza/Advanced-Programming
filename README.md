@@ -26,7 +26,7 @@ cd Advanced Programming
 ### 2. Download Rust and RustRover
 Find the Rust and RustRover installer at:
 
-**RustRover**: https://www.jetbrains.com/help/rust/installation-guide.html
+**RustRover**: https://www.jetbrains.com/help/rust/installation-guide.html <br>
 **Rust**: https://rust-lang.org/tools/install/
 
 ### 3. Open in your IDE
